@@ -8,7 +8,7 @@ A private-in-your-browser application board for tracking a student job search.
 
 [Mobile screenshot](docs/screenshots/mobile.png) · [Learning guide](docs/LEARNING.md) · [Checks](https://github.com/yousefrajabi06-debug/applytrack/actions)
 
-Screenshots show the running application with fictional sample data. They are not design mockups. This repository does not currently advertise a hosted demo.
+Screenshots show the running application with fictional sample data. They are not design mockups. [Open the live Netlify app](https://yousef-applytrack.netlify.app/).
 
 ## Why this project
 
